@@ -9,8 +9,7 @@ Se obtienen así los 20 principales bigramas para 30 topics por weights: [link](
 Se obtienen así los 20 principales bigramas para 30 topics por frex: [link](https://github.com/LCaravaggio/politext/blob/main/output/bigramas_por_frex_30topics.csv) </br>
 Se obtienen así los 20 principales bigramas para 10 topics por weights: [link](https://github.com/LCaravaggio/politext/blob/main/output/bigramas_por_weights_10topics.csv) </br>
 Se obtienen así los 20 principales bigramas para 10 topics por frex: [link](https://github.com/LCaravaggio/politext/blob/main/output/bigramas_por_frex_10topics.csv) </br>
-</br>
-Y también: 
+Y también:  </br>
 Los topics por año por frex: [link](https://github.com/LCaravaggio/politext/blob/main/output/topics_por_a%C3%B1o_por_frex.csv) </br>
 Los topics por año por weights: [link](https://github.com/LCaravaggio/politext/blob/main/output/topics_por_a%C3%B1o_por_weights.csv) </br>
 Los topics por legislatura por frex: [link](https://github.com/LCaravaggio/politext/blob/main/output/topics_por_legislatura_por_frex.csv) </br>
