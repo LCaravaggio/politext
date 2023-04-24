@@ -10,7 +10,7 @@ Los 20 principales bigramas para 10 topics [por weights](https://github.com/LCar
 Y también los topics [por año por frex](https://github.com/LCaravaggio/politext/blob/main/output/topics_por_a%C3%B1o_por_frex.csv), [por año por weights](https://github.com/LCaravaggio/politext/blob/main/output/topics_por_a%C3%B1o_por_weights.csv), [por legislatura por frex](https://github.com/LCaravaggio/politext/blob/main/output/topics_por_legislatura_por_frex.csv) y [por legislatura por weights](https://github.com/LCaravaggio/politext/blob/main/output/topics_por_legislatura_por_weights.csv) </br>
 En estos casos se presenta el valor relativo respecto de la unidad temporal. 
 
-- Luego, utilizando ese mismo vocabulario, pero sobre las órdenes del día se generan 15 topics por LDA y 10 por una metodología de diccionario: [link](https://github.com/LCaravaggio/politext/blob/main/GS_Orden_del_D%C3%ADa_v0_2.ipynb) </br>
+- Luego, utilizando ese mismo vocabulario, pero sobre las órdenes del día se generan 15 topics por LDA y 10 por una metodología de diccionario: [link] </br>(https://github.com/LCaravaggio/politext/blob/main/GS_Orden_del_D%C3%ADa_v0_2.ipynb) </br>
 Por frex [sobre órdenes del día por año](https://github.com/LCaravaggio/politext/blob/main/output/topics_por_a%C3%B1o_por_frex_por_ordendeldia.csv) y 
 [sobre órdenes del día por legislatura](https://github.com/LCaravaggio/politext/blob/main/output/topics_por_legislatura_por_frex_por_ordendeldia.csv) </br>
 Por weights [sobre órdenes del día por año](https://github.com/LCaravaggio/politext/blob/main/output/topics_por_a%C3%B1o_por_weights_por_ordendeldia.csv) y 
