@@ -3,7 +3,7 @@
 
 - El primer paso consiste en la limpieza de la Base (se normalizan los partidos y se eliminan todos los discursos que no se consideran PSOE-PP; Se eliminan las intervenciones del presidente; Se elimina puntuación; Se eliminan stowords; Se hace stemimng; Finalmente se tokenizan las intervenciones): [link](https://github.com/LCaravaggio/politext/blob/snowball/Limpiar_la_base.ipynb) </br>
 
-- Luego se genera un vocabulario de acuerdo al criterio de [Gentzkow, Shapiro y Taddy (2019)](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA16566): [link](https://github.com/LCaravaggio/politext/blob/main/GS%20-%20Guardar%20Vocabulario.ipynb) </br>
+- Luego se genera un vocabulario de acuerdo al criterio de [Gentzkow, Shapiro y Taddy (2019)](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA16566): [link](https://github.com/LCaravaggio/politext/blob/snowball/GS%20-%20Guardar%20Vocabulario.ipynb) </br>
 
 - Con ese vocabulario se realiza un ejercicio de Topic Modeling: [link](https://github.com/LCaravaggio/politext/blob/snowball/GS_v0_2_con_vocab.ipynb) </br>
 Se obtienen así los 20 principales bigramas para 30 topics [por weights](https://github.com/LCaravaggio/politext/blob/snowball/output/bigramas_por_weights_30topics.csv) y [por frex](https://github.com/LCaravaggio/politext/blob/snowball/output/bigramas_por_frex_30topics.csv) </br>
