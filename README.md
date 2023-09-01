@@ -1,4 +1,4 @@
-# politext
+# politext - Porter
 ## Diputados
 
 - El primer paso consiste en la limpieza de la Base (se normalizan los partidos y se eliminan todos los discursos que no se consideran PSOE-PP; Se eliminan las intervenciones del presidente; Se elimina puntuación; Se eliminan stowords; Se hace stemimng; Finalmente se tokenizan las intervenciones): [link](https://github.com/LCaravaggio/politext/blob/main/Limpiar_la_base.ipynb) </br>
